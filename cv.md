@@ -1,5 +1,6 @@
 # Inna Gocheva
-![](//sun9-68.userapi.com/s/v1/if1/FO7_fAk8lyH4YjBlAj4uINi2G-uMvQXnhJM55cIpUS_GLhGEW0A99eQccxxEyzZE9rgNZJYJ.jpg?size=200x200&quality=96&crop=183,251,827,827&ava=1)
+![photo](./me.jpg)
+
 ## Contacts
 ***
 - __Phone__: +31 626891806
@@ -25,9 +26,19 @@ I'm excited about the field of developing and would welcome the opportunity to b
 - VS Code
 - Photoshop (Basic)
 
-## Code examples
+## Code example
 
-
+```javascript
+    var alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+    var randomString = "";
+    
+    while (randomString.length <= 5) {
+        var i = Math.floor(Math.random() * alphabet.length);
+        randomString += alphabet[i]
+    }
+    
+    console.log(randomString)
+  ```
 
 ## Education
 ***
