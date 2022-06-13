@@ -53,6 +53,8 @@ I'm excited about the field of developing and would welcome the opportunity to b
 - MDN guides (HTML/CSS; JavaScript)
 - RS School Course «JavaScript/Front-end» *(in progress)*
 
+## Projects
+ - [CV](https://github.com/inna-eva/rsschool-cv)
 ## Languages
 
 - English - C1
