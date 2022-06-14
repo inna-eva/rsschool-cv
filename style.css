@@ -1,0 +1,132 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1.5;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.section-title {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #333333;
+    background-color: #fff957;
+}
+.link {
+    text-decoration: none;
+    color: #999682;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #af9e3f;
+  }
+
+* {
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.right-align {
+    text-align: center;
+}
+
+.section {
+    width: 50%;
+    padding: 20px 100px;
+    border-top: #999682;
+  }
+  
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+.nav-list {
+    background-color: #fff957;
+    margin-top: 10px;
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.nav-item {
+    float: left;
+    display: block;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 30px;
+    transition: .3s;
+    cursor: pointer;
+  }
+
+  .section-item a {
+    color: #999982;
+    text-decoration: none;  
+    transition: color 0.3s;
+  }
+  .section-item a:hover {
+    color: #fff957;
+  }
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+
+  }
+
+  .section-name-title {
+    font-size: 500%;
+    font-weight: 500;
+    background-color: none;
+    margin: 0px auto;
+    width: 600px;
+  }
+
+  #code-example {
+    font-size: 90%;
+
+
+  }
+
+  .footer-img {
+    max-width: 100px;
+    max-height: auto;
+    background-color: #fff957;
+  }
+
+  .header-container {
+    background-color: #fff957;
+  }
+  .footer-container {
+    background-color: #fff957;
+    text-align: center;
+  }
+  .main-photo {
+    padding: 3px;
+    margin: 0 auto;
+    border: 1px solid #fff957;
+    border-radius: 50%;
+    display: block;
+  }
