@@ -1,5 +1,5 @@
 # Inna Gocheva
-![photo](./me.jpg)
+![photo](./assets/img/me.jpg)
 
 ## Contacts
 
