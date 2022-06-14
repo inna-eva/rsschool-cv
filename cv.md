@@ -18,7 +18,7 @@ That's why I'm now looking for an internship as a Junior Dev.
 
 I'm excited about the field of developing and would welcome the opportunity to bring my strong communication skills, creativity and commitment to your team.
 
-## Technical Skills
+## Hard Skills
 
 - HTML/CSS
 - JavaScript
@@ -51,8 +51,11 @@ I'm excited about the field of developing and would welcome the opportunity to b
 ### Courses
 - HTML Academy
 - MDN guides (HTML/CSS; JavaScript)
+- Hexlet (HTML/CSS)
 - RS School Course «JavaScript/Front-end» *(in progress)*
 
+## Projects
+ - [CV](https://github.com/inna-eva/rsschool-cv)
 ## Languages
 
 - English - C1
